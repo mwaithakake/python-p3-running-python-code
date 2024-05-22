@@ -1,0 +1,1 @@
+print(unicode("Hello World! Pass this test, please."))
